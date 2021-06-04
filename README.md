@@ -2,5 +2,5 @@
 
 [![Top Langs](https://github-stats-kappa.vercel.app/api/top-langs/?username=Kayxue&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-stats-kappa.vercel.app/api/wakatime?username=Kayxue)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-stats-kappa.vercel.app/api/wakatime?username=@Kayxue)](https://github.com/anuraghazra/github-readme-stats)
 
