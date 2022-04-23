@@ -13,9 +13,12 @@
 
 
 現在主要用的：  
-![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
-![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
-![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) : TypeScript  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) : JavaScript  
+![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) : Deno  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) : Node.js  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) : Visual Studio Code  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) : Intellij IDEA
 
 [![Anurag's GitHub stats](https://github-stats-kappa.vercel.app/api?username=Kayxue&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
