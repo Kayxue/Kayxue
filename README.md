@@ -1,12 +1,16 @@
 我是一個不太會寫程式的爛人......😢😢😢
 
-有學習過的程式語言：  
-![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
-![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
-![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
-![java](https://badges.aleen42.com/src/java.svg) : Java  
-![python](https://badges.aleen42.com/src/python.svg) : Python  
+有學習過的：  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) : TypeScript  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) : JavaScript  
+![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) : Deno  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) : Node.js  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) : Java  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) : Python  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) : Django  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) : C#  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) : C++ 
+
 
 現在主要用的：  
 ![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
