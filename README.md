@@ -22,6 +22,10 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) : Node.js  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) : Visual Studio Code  
 
+準備要學的：  
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) : Rust  
+
+
 [![Anurag's GitHub stats](https://github-stats-kappa.vercel.app/api?username=Kayxue&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-stats-kappa.vercel.app/api/top-langs/?username=Kayxue&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
