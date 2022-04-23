@@ -1,6 +1,6 @@
 我是一個不太會寫程式的爛人......😢😢😢
 
-有學習過的程式語言：
+有學習過的程式語言：  
 ![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
 ![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
 ![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
