@@ -10,7 +10,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) : Django  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white) : C#  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) : C++  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) : Visual Studio Code  
+![Visual Studio Code](https://img.shields.io/badge/VSCodium-0078d7.svg?style=for-the-badge&logo=vscodium&logoColor=white) : VSCodium  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) : Intellij IDEA  
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) : Rider  
 
@@ -21,7 +21,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white) : C#  
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) : TypeScript    
 ![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white) : Deno  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) : Visual Studio Code     
+![Visual Studio Code](https://img.shields.io/badge/VSCodium-0078d7.svg?style=for-the-badge&logo=vscodium&logoColor=white) : VSCodium     
 
 [![Anurag's GitHub stats](https://github-stats-kappa.vercel.app/api?username=Kayxue&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
