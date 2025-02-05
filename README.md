@@ -1,6 +1,3 @@
-Profile 觀看次數：  
-![kayxue](https://count.getloli.com/@kayxue)  
-
 一個不太會寫程式的爛人......😢😢😢
 
 有學習或用過的：  
@@ -32,3 +29,5 @@ Profile 觀看次數：
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kayxue)](https://github.com/ryo-ma/github-profile-trophy)
 
+Profile 觀看次數：  
+![kayxue](https://count.getloli.com/@kayxue)  
