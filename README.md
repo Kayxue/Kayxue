@@ -15,7 +15,6 @@
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) : Rider  
 
 
-
 現在主要用的：  
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) : Rust（學習中）  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white) : C#  
@@ -30,4 +29,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kayxue)](https://github.com/ryo-ma/github-profile-trophy)
 
 Profile 觀看次數：  
-![kayxue](https://count.getloli.com/@kayxue)  
+![kayxue](https://count.getloli.com/@kayxue)
