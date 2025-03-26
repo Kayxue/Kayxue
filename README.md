@@ -8,11 +8,11 @@
 ![My Skills](https://skillicons.dev/icons?i=actix,apple,astro,bash,bun,cpp,cloudflare,css,dart,debian,deno,discord,docker,elysia,figma,flutter,git,github,githubactions,gmail,html,instagram,linux,md,neovim,postgres,pr,raspberrypi,rust,solidjs,tailwind,ts,ubuntu,vim,vscodium)
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-stats-kappa.vercel.app/api?username=Kayxue&show_icons=true&theme=prussian&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayxue&layout=donut&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kayxue&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img height="200px" src='https://github-stats-kappa.vercel.app/api?username=Kayxue&show_icons=true&theme=prussian&count_private=true' />
+  <img height="200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kayxue&layout=donut&theme=prussian' />
+  <img height="200px" src='https://github-profile-trophy.vercel.app/?username=Kayxue&theme=nord' />
+</div>
 
 ## Profile View Count
 ![kayxue](https://count.getloli.com/@kayxue)
