@@ -11,6 +11,11 @@
 <div align="center">
   <img height="200px" src='https://github-stats-kappa.vercel.app/api?username=Kayxue&show_icons=true&theme=prussian&count_private=true' />
   <img height="200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kayxue&layout=donut&theme=prussian' />
+</div>
+
+<br>
+
+<div align="center">
   <img height="200px" src='https://github-profile-trophy.vercel.app/?username=Kayxue&theme=nord' />
 </div>
 
