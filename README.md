@@ -7,11 +7,12 @@
 現在主要用的：  
 ![My Skills](https://skillicons.dev/icons?i=actix,apple,astro,bash,bun,cpp,cloudflare,css,dart,debian,deno,discord,docker,elysia,figma,flutter,git,github,githubactions,gmail,html,instagram,linux,md,neovim,postgres,pr,raspberrypi,rust,solidjs,tailwind,ts,ubuntu,vim,vscodium)
 
-[![Anurag's GitHub stats](https://github-stats-kappa.vercel.app/api?username=Kayxue&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-stats-kappa.vercel.app/api?username=Kayxue&show_icons=true&theme=prussian&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-stats-kappa.vercel.app/api/top-langs/?username=Kayxue&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayxue&layout=donut&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kayxue)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kayxue&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-Profile 觀看次數：  
+## Profile View Count
 ![kayxue](https://count.getloli.com/@kayxue)
