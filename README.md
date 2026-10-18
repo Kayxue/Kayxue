@@ -36,8 +36,8 @@ Actively used before, but not currently:
 
 ## GitHub Stats
 <div align="center">
-  <img height="150px" src='https://ghstats.dev/api/card?username=KayXue&theme=nord&hide=hours%2Cstreak%2Cweek%2Cfollowers%2Crepos%2Cgrade%2Cactive_day%2Cavg%2Ctrend' />
-  <img height="150px" src='https://ghstats.dev/api/langs?username=KayXue&theme=nord&layout=grid' />
+  <img height="190px" src='https://ghstats.dev/api/card?username=KayXue&theme=nord&hide=hours%2Cstreak%2Cweek%2Cfollowers%2Crepos%2Cgrade%2Cactive_day%2Cavg%2Ctrend' />
+  <img height="190px" src='https://ghstats.dev/api/langs?username=KayXue&theme=nord&layout=grid' />
 </div>
 
 <br>
