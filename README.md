@@ -36,8 +36,8 @@ Actively used before, but not currently:
 
 ## GitHub Stats
 <div align="center">
-  <img height="175px" src='https://ghstats.dev/api/card?username=KayXue&theme=nord&hide=hours%2Cstreak%2Cweek%2Cfollowers%2Crepos%2Cgrade%2Cactive_day%2Cavg%2Ctrend' />
-  <img height="175px" src='https://ghstats.dev/api/langs?username=KayXue&theme=nord&layout=grid' />
+  <img height="200px" src='https://github-stats-extended.vercel.app/api?username=Kayxue&show_icons=true&theme=prussian&count_private=true' />
+  <img height="200px" src='https://github-stats-extended.vercel.app/api/top-langs/?username=Kayxue&layout=donut&theme=prussian' />
 </div>
 
 <br>
