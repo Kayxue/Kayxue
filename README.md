@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&width=435&lines=Hello%2C+I'm+KayXue" alt="Typing SVG" /></a>
 </h1>
-A person who generate garbage codes everyday.
+A person who don't know how to code.
 
 ## Languages:
 Currently using:  
